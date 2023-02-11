@@ -13,7 +13,7 @@
     <StackPanel Margin="25,40,23,15">
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
             <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight" Text="BiliBili" EventType="打开网页" EventData="https://www.bilibili.com/" ToolTip="哔哩哔哩 (゜-゜)つロ 干杯~-bilibili" />
-            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight" Text="Github" EventType="打开网页" EventData="https://www.mcbbs.net/portal.php" ToolTip="世界上最大的男性同性交友网站![doge]" />
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight" Text="Github" EventType="打开网页" EventData="https://www.github.com/" ToolTip="世界上最大的男性同性交友网站![doge]" />
         </StackPanel>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
             <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight" Text="OpenFrp" EventType="打开网页" EventData="https://www.openfrp.net/home/dashboard" ToolTip="OpenFrp的管理面板" />
